@@ -1,0 +1,4 @@
+*.coverage
+*.scannerwork
+__pycache__/
+*.log

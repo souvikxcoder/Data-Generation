@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_transaction.TestFunctions-20210910153151" tests="23" file="test_transaction.py" time="2.829" timestamp="2021-09-10T15:31:53" failures="0" errors="0" skipped="0">
+	<testcase classname="test_transaction.TestFunctions" name="test_call_transaction_calls" time="0.554" timestamp="2021-09-10T15:31:51" file="test_transaction.py" line="212"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_data_transaction_calls" time="0.866" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="252"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_get_create_database_consumption" time="0.001" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="88"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_get_create_table_call" time="0.001" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="125"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_get_create_table_data" time="0.001" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="140"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_get_create_table_message" time="0.001" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="96"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_get_create_table_user_balance" time="0.001" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="116"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_get_current_time" time="0.001" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="26"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_get_log_file" time="0.001" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="113"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_get_use_database_consumption" time="0.001" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="92"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_list_of_tuples_to_list" time="0.000" timestamp="2021-09-10T15:31:52" file="test_transaction.py" line="51"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_message_transaction_calls" time="1.259" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="171"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_pick_users_from_user_balance" time="0.001" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="37"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_pseudo_drop" time="0.000" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="151"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_random_distrubution_generator_large_scale" time="0.002" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="69"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_random_distrubution_generator_small_scale" time="0.001" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="58"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_random_id_generator" time="0.001" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="22"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_select_id_from_transaction_type" time="0.000" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="43"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_select_user_from_user_balance" time="0.001" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="32"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_size_of_user_balance_table" time="0.000" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="47"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_sub" time="0.001" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="55"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_user_balance" time="0.134" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="154"/>
+	<testcase classname="test_transaction.TestFunctions" name="test_user_balance_generator" time="0.001" timestamp="2021-09-10T15:31:53" file="test_transaction.py" line="80"/>
+</testsuite>
